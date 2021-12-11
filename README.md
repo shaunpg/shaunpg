@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shaunpg
-- 👀 I’m interested in Web Development with JamStack, JavaScript, C# and .NET
+- 👋 Hello there, I'm Shaun :relaxed:
+- 👀 I’m interested in JavaScript and Web Development
 
 <!---
 shaunpg/shaunpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
